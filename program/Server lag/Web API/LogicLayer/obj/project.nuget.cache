@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpPqWOgHXlBjEWCvCeEi4oNmGBLXX8SQ4VAMKtaVBsfpOzr7kS5L5p0mayM7z2DHB1RZ4zi+vMaI4zPp8s+t2Q==",
+  "dgSpecHash": "aQXvZNQj4FG++4kuXA0CEwnXPwcN1PM3SLtCUwmmb/GO/5owcMp6frag2ZGhsks1lF2ujTn1CUvVfyioIORlwQ==",
   "success": true,
-  "projectFilePath": "C:\\Own Project\\Vikar\\freetime-project-MatchMakingEmployment\\program\\Server lag\\Web API\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Own Project\\Vikar\\freetime-project-MatchMakingEmployment\\program\\Server lag\\Web API\\LogicLayer\\LogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morte\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\morte\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
