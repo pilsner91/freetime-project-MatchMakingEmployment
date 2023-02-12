@@ -98,6 +98,16 @@
         "runtime": {
           "bin/placeholder/Domain.dll": {}
         }
+      },
+      "LogicLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LogicLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogicLayer.dll": {}
+        }
       }
     }
   },
@@ -231,11 +241,17 @@
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "LogicLayer/1.0.0": {
+      "type": "project",
+      "path": "../LogicLayer/LogicLayer.csproj",
+      "msbuildProject": "../LogicLayer/LogicLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Domain >= 1.0.0",
+      "LogicLayer >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -266,6 +282,9 @@
           "projectReferences": {
             "C:\\Own Project\\Vikar\\freetime-project-MatchMakingEmployment\\program\\Server lag\\Web API\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Own Project\\Vikar\\freetime-project-MatchMakingEmployment\\program\\Server lag\\Web API\\Domain\\Domain.csproj"
+            },
+            "C:\\Own Project\\Vikar\\freetime-project-MatchMakingEmployment\\program\\Server lag\\Web API\\LogicLayer\\LogicLayer.csproj": {
+              "projectPath": "C:\\Own Project\\Vikar\\freetime-project-MatchMakingEmployment\\program\\Server lag\\Web API\\LogicLayer\\LogicLayer.csproj"
             }
           }
         }
