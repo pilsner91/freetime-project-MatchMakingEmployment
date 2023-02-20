@@ -15,6 +15,8 @@ public class CompanyController : ControllerBase
     {
         _companyLogic = companyLogic;
     }
+    
+    
 
   
 }
